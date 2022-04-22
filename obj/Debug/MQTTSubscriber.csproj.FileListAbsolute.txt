@@ -1,0 +1,16 @@
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.csproj.AssemblyReference.cache
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.csproj.SuggestedBindingRedirects.cache
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.Properties.Resources.resources
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.csproj.GenerateResource.cache
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\MQTTSubscriber.exe.config
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\MQTTSubscriber.exe
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\MQTTSubscriber.pdb
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\M2Mqtt.Net.dll
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.csproj.CopyComplete
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.exe
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.pdb
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\obj\Debug\MQTTSubscriber.Form1.resources
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\БГончаренко\RiderProjects\MQTTSubscriber\bin\Debug\Newtonsoft.Json.xml
